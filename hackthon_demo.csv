@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Email,City
+101,Rahul,20,rahul@gmail.com,Bangalore
+102,Priya,21,priya@gmail.com,bangalore
+103,Arjun,,arjun@gmail.com,Mysore
+101,Rahul,20,rahul@gmail.com,Bangalore
+105,,19,sneha@gmail.com,Tumkur
+106,Karthik,250,karthik@gmail.com,HUBLI
+107,Ananya,22,bad-email-format,Mangalore
+108,Vikram,-5,vikram@gmail.com,bangalore
+109,Meera,20,meera@gmail.com,Mysore
+110,Rohan,21,rohan-no-at-sign.com,Bangalore
